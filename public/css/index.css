@@ -23,7 +23,7 @@ body {
 	margin-top: 20px;
 }
 .nav-pills {
-	margin-left: 35px;
+	margin-left: 30px;
 }
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
 	color: #00cc99;
@@ -274,3 +274,60 @@ a.right.carousel-control {
 .work-sample:hover {
 	cursor: pointer;
 }
+.bottom-con {
+	width: 100%;
+	text-align: center;
+	color: #33cccc;
+}
+.want {
+	margin: 0px;
+	padding: 0px;
+}
+.shop {
+	height: 350px;
+	width: 220px;
+	box-shadow: 0px 0px 5px black;
+	margin-top: 15px;
+	display: inline-block;
+}
+#get-started {
+	background-color: white;
+	border: 1px solid #00cc99;
+	color: #33cccc;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.get-started {
+	text-decoration: none;
+	color: #33cccc;
+}
+.get-started:hover {
+	text-decoration: none;
+	color: white;
+}
+#get-started:hover {
+	background-color: #00cc99;
+	color: white;
+}
+.shop-pic-con {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.mobile {
+	margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
