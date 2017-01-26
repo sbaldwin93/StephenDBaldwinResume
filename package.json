@@ -1,0 +1,16 @@
+{
+  "name": "StephenDBaldwinResume",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.7",
+    "body-parser": "^1.15.1",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "jquery": "^2.2.3",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
